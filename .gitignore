@@ -1,0 +1,8 @@
+/bitrix
+/upload
+/images
+urlrewrite.php
+.access.php
+.htaccess
+404.php
+web.config

@@ -1,0 +1,5 @@
+<?php
+
+$MESS['BEX_D7DULL_MODULE_NAME'] = 'D7-тест';
+$MESS['BEX_D7DULL_MODULE_DESCRIPTION'] = 'Модуль тестирования';
+$MESS['BEX_D7DULL_MODULE_PARTNER_NAME'] = '';
